@@ -5,7 +5,7 @@ document.body.style.backgroundColor='grey';
 
 document.body.addEventListener('click',()=>
 {
-    document.body.innerText='clicked';
+    document.body.innerText='clicked on body';
     document.body.style.backgroundColor='black';
     document.body.style.color='white';
 })
