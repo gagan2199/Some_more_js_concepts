@@ -1,5 +1,9 @@
 document.body.style.backgroundColor='grey';
 
+
+// let h4tag=document.getElementsByTagName('h4');
+
+
 // arrow function
 
 
