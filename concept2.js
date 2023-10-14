@@ -11,3 +11,12 @@ btn.addEventListener('click',()=>
 
     // container.style.backgroundColor='red';        for query selector
 })
+
+let a=[1,2,3,4];
+let c=[1,2,3,4,5,6];
+
+spl=a.splice(2,3)
+console.log(spl); 
+
+let b=c.slice(0,3);
+console.log(b)
