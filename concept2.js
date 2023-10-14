@@ -8,4 +8,6 @@ btn.addEventListener('click',()=>
     // document.body.style.backgroundColor='red';
     btn.style.color='blue';
     container[0].style.backgroundColor='red';
+
+    // container.style.backgroundColor='red';        for query selector
 })
