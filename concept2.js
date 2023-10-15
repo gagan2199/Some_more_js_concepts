@@ -15,7 +15,7 @@ btn.addEventListener('click',()=>
 let a=[1,2,3,4,5,6];
 let c=[1,2,3,4,5,6];
 
-spl=a.splice(2,2,9,9);
+spl=a.splice(2,3,9,9,7);
 console.log(spl); 
 console.log(a); 
 
