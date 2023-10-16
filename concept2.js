@@ -13,7 +13,7 @@ btn.addEventListener('click',()=>
 })
 
 let a=[1,2,3,4,5,6];
-let c=[1,2,3,4,5,6];
+let c=[1,2,3,4,5,9,4,6];
 
 spl=a.splice(2,3,9,9,7);      // from index 2 3 elements 9,9,7 added
 console.log(spl); 
