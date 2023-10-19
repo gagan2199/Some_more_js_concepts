@@ -1,7 +1,9 @@
 let m=[1,2,3,34,53,22];
 
 
-m.map((Element)=>
+let nm=m.map((element)=>
 {
-    return Element+1;
-})
+    return element+1;
+});
+
+console.log(nm);
