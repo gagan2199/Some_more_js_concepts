@@ -1,6 +1,8 @@
 let colours=["red","blue","pink","grey","white","black"];
 
-let rc= colours.reduce((nam)=>
+let rc= colours.reduce((nam,nam2)=>
 {
-    return nam;
+    return nam+" " +nam2;
 })
+
+console.log(rc);
