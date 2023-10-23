@@ -1,6 +1,16 @@
 let ab=[1,2,3,4,5,6];
 
 
+let sname="gagan";
+
+let arrfrom= Array.from(sname);         // will convert string into array
+
+for(let t of arrfrom)
+{
+    console.log(t);
+}
+
+
 for (let item of ab)               // will print elements of ab, treat i as each element
 {
     console.log(item);
