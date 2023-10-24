@@ -3,7 +3,7 @@ let ab=[1,2,3,4,5,6];
 
 let sname="gagan";
 
-let arrfrom= Array.from(sname);         // will convert string into array
+let arrfrom= Array.from(sname);         // will convert string into array      for html collections
 
 for(let t of arrfrom)
 {
