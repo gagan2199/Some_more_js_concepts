@@ -9,7 +9,7 @@ btn.addEventListener('click',()=>
     btn.style.color='blue';
     container[0].style.backgroundColor='red';
 
-    // container.style.backgroundColor='red';        for query selector
+    // container.style.backgroundColor='red';        for query selector adding color
 })
 
 let a=[1,2,3,4,5,6];
