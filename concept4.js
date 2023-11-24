@@ -1,1 +1,3 @@
-document.getElementsByTagName('body');
+let body= document.getElementsByTagName('body');
+
+body.color='red';
