@@ -34,3 +34,11 @@ users.sort(function (a, b) {
   }
   return 0;
 });
+
+
+        var a=["ram",28,"btech"]
+        document.write(a +" "+"<br>");
+        a[1]=1;
+        delete a[2];
+        document.write(a +" "+"<br>");
+    
