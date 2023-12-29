@@ -51,5 +51,14 @@ browser</p>
         a.reverse();
         document.write(a +" "+"<br>");
     </script>
+
+<script>
+        var a=["ram",28,"btech"]
+        document.write(a +" "+"<br>");
+        a.sort();
+        document.write(a +" "+"<br>");
+        a.reverse();
+        document.write(a +" "+"<br>");
+    </script>
 </body>
 </html
